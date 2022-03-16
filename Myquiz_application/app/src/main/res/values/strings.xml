@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Myquiz_application</string>
+    <string name="start_quiz">Start quiz</string>
+    <string name="logo_de_quiz">logo_de_quiz</string>
+    <string name="commencer_le_quiz">Commencer le quiz</string>
+    <string name="votre_questionnaire_est_dur_e_limit_e">Votre questionnaire est à durée limitée:</string>
+    <string name="vous_avez_10_questions_1_point_par_bonne_r_ponse_0_point_par_mauvaise_r_ponse_ou_sans_r_ponse">Vous avez 10 questions. 1 point par bonne réponse 0 point par mauvaise réponse ou sans réponse</string>
+    <string name="option_1">Option 1</string>
+</resources>
